@@ -23,6 +23,7 @@ git clone https://github.com/git-foundations-course/Github-Examples.git
 If after running the command `git status` we see that some files are untracked but we want all of them to be tracked  we can run the command `git add all`. 
 ## Commits
 `git commit` used to commit code 
+`git log` will show all recents commits.
 ## Branches
 
 ## Remotes
